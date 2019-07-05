@@ -1826,3 +1826,4 @@ Sorry!! No quote found -- 9
 0 A short saying oft contains much wisdom.  -Sophocles
 1 A short saying oft contains much wisdom.  -Sophocles
 2 To want to be what one can be is purpose in life.  -Cynthia Ozick
+0 To want to be what one can be is purpose in life.  -Cynthia Ozick
