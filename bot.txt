@@ -1797,3 +1797,4 @@ Sorry!! No quote found -- 9
 1 If you propose to speak, always ask yourself, is it true, is it necessary, is it kind. -Buddha
 2 If you propose to speak, always ask yourself, is it true, is it necessary, is it kind. -Buddha
 3 If you propose to speak, always ask yourself, is it true, is it necessary, is it kind. -Buddha
+4 Do, or do not. There is no try.  -Yoda
