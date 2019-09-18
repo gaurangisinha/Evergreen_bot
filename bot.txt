@@ -1438,3 +1438,4 @@ Sorry!! No quote found -- 5
 0 No matter how hard the past, you can always begin again. -Buddha
 1 No matter how hard the past, you can always begin again. -Buddha
 2 No matter how hard the past, you can always begin again. -Buddha
+3 No matter how hard the past, you can always begin again. -Buddha
