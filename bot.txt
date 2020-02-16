@@ -643,3 +643,4 @@ Sorry!! No quote found -- 7
 8 I have no special talent. I am only passionately curious.   -Albert Einstein
 0 I have no special talent. I am only passionately curious.   -Albert Einstein
 1 I have no special talent. I am only passionately curious.   -Albert Einstein
+2 I have no special talent. I am only passionately curious.   -Albert Einstein
