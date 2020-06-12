@@ -64,3 +64,4 @@
 0 You are never given a wish without also being given the power to make it come true. You may have to work for it, however.   -Richard Bach 
 1 You are never given a wish without also being given the power to make it come true. You may have to work for it, however.   -Richard Bach 
 2 To get something you never had, you have to do something you never did. -
+3 To get something you never had, you have to do something you never did. -
