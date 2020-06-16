@@ -823,3 +823,4 @@ Fortune favours the brave. -Virgil
 7Where all think alike, no one thinks very much.  -Walter Lippmann
 0Where all think alike, no one thinks very much.  -Walter Lippmann
 1Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them.   -William Shakespeare 
+2Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them.   -William Shakespeare 
