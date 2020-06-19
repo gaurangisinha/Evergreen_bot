@@ -804,3 +804,4 @@ Fortune favours the brave. -Virgil
 0Truth is powerful and it prevails.  -Sojourner Truth
 1Truth is powerful and it prevails.  -Sojourner Truth
 2Truth is powerful and it prevails.  -Sojourner Truth
+3Truth is powerful and it prevails.  -Sojourner Truth
