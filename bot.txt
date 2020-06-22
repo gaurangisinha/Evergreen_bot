@@ -16,3 +16,4 @@
 3 Success builds character. Failure reveals it. -Dave Checketts
 4 Success builds character. Failure reveals it. -Dave Checketts
 5 Success builds character. Failure reveals it. -Dave Checketts
+6 Success builds character. Failure reveals it. -Dave Checketts
