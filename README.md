@@ -4,6 +4,7 @@ It's a Python bot capable of generating a single quote (times the number of days
 
 ---
 
+#### Disclaimer : This has been made available for informational and educational purposes only and solely as a self-help tool for your own use.
 ### Steps to make your github timeline evergreen again: 
 
 1. Make a new repo (public / private). 
