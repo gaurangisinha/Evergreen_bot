@@ -8,9 +8,9 @@ It's a Python bot capable of generating a single quote (times the number of days
 ### Steps to make your github timeline evergreen again: 
 
 1. Make a new repo (public / private). 
-2. Clone the repo to your local machine using SSH or HTTPS.<br>
+2. Clone the repo to your local machine using SSH or HTTPS,for example SSH key using <br>
 ```
-SSH key using ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 ```
 3. Copy the output of cat id_rsa.pub<br>
 4. Paste the above copied outpur into your Github profile -> Settings -> SSH and GPG Keys -> Add new SSH key.
