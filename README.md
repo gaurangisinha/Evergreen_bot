@@ -28,6 +28,7 @@ python bot.py
 2. You enter a number n : 5 (say).
 3. Basically then from 12th june it goes back 5 days and each day it starts to commit(puts a random quote in bot.txt).
 4. Now you know how to make your timeline evergreen, if you miss to upload one day :P .
+5. If u want to undo the changes, simply delete the repo.
 
 ---
 ### So u want proof XD ....??
