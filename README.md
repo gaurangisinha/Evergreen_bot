@@ -20,11 +20,14 @@ SSH key using ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 ```
 python bot.py
 ```
+
+---
 ### The way it works: 
 1. Lets assume today's date is 12th June.
 2. You enter a number n : 5 (say).
 3. Basically then from 12th june it goes back 5 days and each day it starts to commit(puts a random quote in bot.txt).
 4. Now you know how to make your timeline evergreen, if you miss to upload one day :P .
 
+---
 ### So u want proof XD ....??
 ![](https://github.com/Sayantan-world/Quote_bot/blob/master/Images/commits.png?raw=true)
