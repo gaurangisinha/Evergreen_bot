@@ -18,6 +18,8 @@ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 
 5. Download bot.py only and paste it in your cloned repo(which was empty or had readme.md) and create an empty file named bot.txt.
 6. Run the script .
+7. Enter the number of days you want to rewind.
+8. Set the max limit of commit per day (0 - max)
 ```
 python bot.py
 ```
@@ -26,10 +28,15 @@ python bot.py
 ### The way it works: 
 1. Lets assume today's date is 12th June.
 2. You enter a number n : 5 (say).
-3. Basically then from 12th june it goes back 5 days and each day it starts to commit(puts a random quote in bot.txt).
+3. Set the max limit of commits per day (say m).
+3. Basically then from 12th june it goes back 5 days and each day it starts to commit(puts a random quote in bot.txt) * a random number.
+4. Therefore per day you will a random amount of commit (0 - m)
 4. Now you know how to make your timeline evergreen, if you miss to upload one day :P .
 5. If u want to undo the changes, simply delete the repo.
 
 ---
+
+### Note : If you r tyring it for fun, recommended values of n = 10, m = 10.
+### Note : This process takes time if u set a large value of n (keep m between 0-10) else process may take eternity.
 ### So u want proof XD ....??
 ![](https://github.com/Sayantan-world/Quote_bot/blob/master/Images/commits.png?raw=true)
