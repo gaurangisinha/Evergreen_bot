@@ -1,6 +1,8 @@
 ---
 # Evergreen Bot
-It's a Python bot capable of generating a single quote (times the number of days given) and store it in bot.txt ....Everything is done in past :P XD
+It's a Python bot capable of generating a single quote (times the number of days given) and store it in bot.txt, but.....
+<br><br>
+....Everything is done in past :P XD
 
 ---
 
