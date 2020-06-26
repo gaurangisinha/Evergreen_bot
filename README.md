@@ -16,7 +16,7 @@ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 4. Paste the above copied outpur into your Github profile -> Settings -> SSH and GPG Keys -> Add new SSH key.
 
 
-5. Download bot.py only and paste it in your cloned repo(which was empty or had readme.md).
+5. Download bot.py only and paste it in your cloned repo(which was empty or had readme.md) and create an empty file named bot.txt.
 6. Run the script .
 ```
 python bot.py
