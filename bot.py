@@ -26,12 +26,12 @@ for i in range(1,n + 1):
 		d = str(i) + ' day ago'
 		try:
 		    quote,author = get_Quote()
-		    text = str(j) + quote+" -"+author+"\n"
+		    text = str(j) +" " + quote+" -"+author+"\n"
 		except:
 		    text = "Sorry!! No quote found -- " + str(j) + "\n"
 
 		## Open a text file and modify it (append mode)
-		with open('bot.txt', 'a') as file:
+		with open('bot.txt', 'w') as file:
 		    file.write(text)
 
 		## Add bot.txt to staging area
