@@ -51,10 +51,11 @@ Samples :
 ---------
 1. With the Recommended settings the script will take 1 min time to execute and the commits will be reflected instantly.
 1. Lets assume today's date is 12th June.
-2. You enter a number n : 5 (say).
+2. You enter 5 to go 5 days back.
+2. You enter number of days as : 7 (say).
 3. Set the max limit of commits per day (say m).
-3. Basically then from 12th june it goes back 5 days and each day it starts to commit(puts a random quote in bot.txt) * a random number.
-4. Therefore per day you will a random amount of commit (0 - m)
+3. Basically then from 7th june june it goes back 7 days (1st June) and each day it starts to commit(puts a random quote in bot.txt) * a random number.
+4. Therefore, per day you will have a random amount of commit (0 - m)
 4. Now you know how to make your timeline evergreen, if you miss to upload one day :P .
 5. If u want to undo the changes, simply delete the repo.
 
