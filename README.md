@@ -29,7 +29,7 @@ python bot.py
 
 Instructions :
 --------------
-1. Enter the day number you want to rewind to (start) [Eg..  n = 1 to go to previous day].
+1. Enter the day number you want to rewind to (start) [Eg..  start = 1 to go to previous day].
 2. Enter the number of days you want to perform this action (n).
 3. Set the max limit of commit per day(m - Random value taken between 0-m).
 
