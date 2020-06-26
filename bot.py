@@ -17,25 +17,28 @@ def get_Quote():
 
 ## Number of days you want to make commits
 print("\nWelcome to Github commit in the past !! XD\n")
-n = int(input("Enter number of days u want to make a commit: "))
+n = int(input("Enter number of days u want to go back: "))
+maxm = int(input("Enter limit of max commit each day: "))
 
 for i in range(1,n + 1):
-    d = str(i) + ' day ago'
-    try:
-        quote,author = get_Quote()
-        text = quote+" -"+author+"\n"
-    except:
-        text = "Sorry!! No quote found\n" 
+	end = random.randint(0,maxm)
+	for j in range(0,end):
+		d = str(i) + ' day ago'
+		try:
+		    quote,author = get_Quote()
+		    text = str(j) + quote+" -"+author+"\n"
+		except:
+		    text = "Sorry!! No quote found -- " + str(j) + "\n"
 
-    ## Open a text file and modify it (append mode)
-    with open('bot.txt', 'a') as file:
-        file.write(text)
+		## Open a text file and modify it (append mode)
+		with open('bot.txt', 'a') as file:
+		    file.write(text)
 
-    ## Add bot.txt to staging area
-    os.system('git add bot.txt')
+		## Add bot.txt to staging area
+		os.system('git add bot.txt')
 
-    ## Commit it
-    os.system('git commit --date="' + d + '" -m "first commit"')
+		## Commit it
+		os.system('git commit --date="' + d + '" -m "first commit"')
 
 ## push the commit to github
 os.system('git push -u origin master')
