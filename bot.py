@@ -20,6 +20,10 @@ print("\nWelcome to Github commit in the past !! XD\n")
 n = int(input("Enter number of days u want to go back: "))
 maxm = int(input("Enter limit of max commit each day: "))
 
+# Erase contents of the file
+file = open("bot.txt","w")
+file.close()
+
 for i in range(1,n + 1):
 	end = random.randint(0,maxm)
 	for j in range(0,end):
@@ -31,7 +35,7 @@ for i in range(1,n + 1):
 		    text = "Sorry!! No quote found -- " + str(j) + "\n"
 
 		## Open a text file and modify it (append mode)
-		with open('bot.txt', 'w') as file:
+		with open('bot.txt', 'a') as file:
 		    file.write(text)
 
 		## Add bot.txt to staging area
