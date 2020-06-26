@@ -29,9 +29,9 @@ Instructions :
 
 Recommended Settings : 
 ----------------------
-1. Set start to any number u want
-2. Set number of days (n = 30)
-3. Set max limit ( m = 10 )
+1. Set start to any number u want.
+2. Set number of days (n = 30).
+3. Set max limit ( m = 10 ).
 
 Dangers :
 ---------
@@ -74,7 +74,7 @@ for i in range(start,start + n + 1):
 		os.system('git add bot.txt')
 
 		## Commit it
-		os.system('git commit --date="' + d + '" -m "first commit"')
+		os.system('git commit --date="' + d + '" -m "auto commit"')
 
 ## push the commit to github
 os.system('git push -u origin master')
