@@ -23,3 +23,4 @@
 0 Much wisdom often goes with fewer words. -Sophocles
 1 Much wisdom often goes with fewer words. -Sophocles
 2 Thousands of candles can be lighted from a single candle, and the life of the candle will not be shortened. Happiness never decreases by being shared.  -Buddha
+3 Thousands of candles can be lighted from a single candle, and the life of the candle will not be shortened. Happiness never decreases by being shared.  -Buddha
